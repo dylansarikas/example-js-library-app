@@ -1,0 +1,15 @@
+<template>
+  <img
+    data-creepyface
+    src="https://creepyface.io/img/0/serious"
+    data-src-hover="https://creepyface.io/img/0/hover"
+    data-src-look-0="https://creepyface.io/img/0/0"
+    data-src-look-45="https://creepyface.io/img/0/45"
+    data-src-look-90="https://creepyface.io/img/0/90"
+    data-src-look-135="https://creepyface.io/img/0/135"
+    data-src-look-180="https://creepyface.io/img/0/180"
+    data-src-look-225="https://creepyface.io/img/0/225"
+    data-src-look-270="https://creepyface.io/img/0/270"
+    data-src-look-315="https://creepyface.io/img/0/315"
+  />
+</template>

@@ -2,7 +2,11 @@
   <div id="nav">
     <router-link to="/">Home</router-link>
     |
-    <router-link to="/about">About</router-link>
+    <router-link to="/about">Abouts</router-link>
+    |
+    <router-link to="/Xkcd">Xkcd</router-link>
+    |
+    <router-link to="/CreepyFace">CreepyFace</router-link>
   </div>
   <router-view />
 </template>
